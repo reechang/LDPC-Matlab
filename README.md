@@ -2,8 +2,6 @@
 
 Encoding of LDPC Codes 
 
-Encoding of LDPC Codes (Non full rank or Full rank Parity Check Matrices).
-
 codeWord = ldpcEncoding(H,u):
 
 Input variables:
